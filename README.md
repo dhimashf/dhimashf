@@ -92,14 +92,17 @@ fun_fact: Turned a rule-based chatbot into a Hybrid RAG system — and published
 
 ---
 
-## 🌆 3D Contribution Calendar
+## 🐍 Snake Calendar
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhimashf/dhimashf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhimashf/dhimashf/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/dhimashf/dhimashf/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
-> Note: this renders once the `snake.yml` workflow (included below) has run at least once on your profile repo.
-
+> This loads only after the `snake.yml` workflow (below) has run at least once — see steps under the file list.
 
 ---
 
